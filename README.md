@@ -3,6 +3,8 @@
 ## Project Overview
 This project implements a 2D physics engine in a Jupyter Notebook to simulate the motion and collisions of multiple balls. The simulation incorporates object-oriented programming (OOP) principles, mathematical equations for motion and collisions, and visualization using Matplotlib animations. The goal is to model realistic physical interactions, including gravity, friction, elastic collisions, and inelastic collisions, while visualizing the dynamic behavior of the system.
 
+Demo video: https://youtu.be/tr6TcoolEFA 
+
 ## Objectives
 - **OOP Requirements**: Define a `Ball` class with attributes like position, velocity, mass, radius, and color, and methods for updating positions and handling collisions.
 - **Math Requirements**: Implement equations of motion under gravity and friction, and resolve collisions using momentum conservation and the coefficient of restitution.
